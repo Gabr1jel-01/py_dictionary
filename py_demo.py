@@ -18,3 +18,8 @@ names = ['Pero', 'Ana', 'Marko', 'Mirko', 'Slavko']
 
 pero, ana, *ostatak = names
 print(ostatak)
+
+const_pi = 3,14
+print(const_pi)
+
+
